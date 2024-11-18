@@ -1,9 +1,9 @@
 {
-  "name": "Bee Coin",
-  "symbol": "BEE",
-  "description": "Experiment BRL coin based on interest rate",
+  "name": "Nectar",
+  "symbol": "NCT",
+  "description": "Social experiment based on interest rate",
   "image": "https://beetsi-ltda.github.io/coin-metadata/logo.png",
   "extensions": {
-    "website": "https://coin.beetsi.com.br"
+    "website": "https://nectar.beetsi.com.br"
   }
 }
