@@ -1,0 +1,9 @@
+{
+  "name": "Bee Coin",
+  "symbol": "BEE",
+  "description": "Experiment BRL coin based on interest rate",
+  "image": "https://...",
+  "extensions": {
+    "website": "https://coin.beetsi.com.br"
+  }
+}
